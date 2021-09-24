@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SandraMarszalek
+- 🌱 Currently learning : C#, Xamarin, Go
+- Junior .Net Dev
